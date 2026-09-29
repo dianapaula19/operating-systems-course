@@ -1,0 +1,14 @@
+# compiled programs (build them with gcc, see README)
+dfwseet_a13/find
+dfwseet_a13/findnumber
+dfwseet_a13/test
+dfwseet_a22/bfs
+dfwseet_a5/getint
+dfwseet_a9/main
+ietud2_d2/sum
+sn6d_2/a
+sn6d_2/b
+sn6d_4/main
+teme_f16/wc
+teme_f2/prim
+*.out
